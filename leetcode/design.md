@@ -4,7 +4,7 @@
 + [Implement Stack using Queues](#implement-stack-using-queues)
 + [Implement Queue using Stacks](#implement-queue-using-stacks)
 
-##Min Stack
+## Min Stack
 
 https://leetcode.com/problems/min-stack/
 
@@ -53,7 +53,7 @@ class MinStack {
  */
  ```
  
- ##Implemet Stack using Queues
+ ## Implemet Stack using Queues
  
  https://leetcode.com/problems/implement-stack-using-queues/
  
@@ -112,7 +112,7 @@ class MyStack {
  */
  ```
  
- ##Implement Queue using Stacks
+ ## Implement Queue using Stacks
  
  https://leetcode.com/problems/implement-queue-using-stacks/
  
