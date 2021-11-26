@@ -1,4 +1,4 @@
-# ARRAY
+# Array
 
 + [Squares of a Sorted Array](#squares-of-a-sorted-array)
 <!---->
